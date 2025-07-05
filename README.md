@@ -6,6 +6,8 @@
 
 ### 🚀 Skills & Technologies
 - 💡 Frontend: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
+- ![image](https://github.com/user-attachments/assets/39326bb4-a1ae-4b3e-950d-6157225148b8)
+
 - ⚙️ Backend: Node.js, Express.js
 - 🗃️ Database: MongoDB MYSQL
 - 📚 Others: Git, GitHub, REST APIs, JSON, JS Libraries (GSAP)

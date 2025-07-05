@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71D0F&background=24FF6C00&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Pavan+Kushwaha)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71D0F&background=24FF6C00&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Pavan+Kushwaha)](https://git.io/typing-svg)
 
 💻 Passionate Web Developer | MERN Stack Enthusiast  
 🌐 I love building modern, responsive, and user-friendly websites  

@@ -20,5 +20,5 @@
 🔗 [College Club Website](#)
 
 ### 📫 Let's Connect
-- 🌐 [https://www.citypng.com/public/uploads/preview/hd-vector-flat-linkedin-in-round-icon-png-701751695046390m4phkuuiqm.png?v=2025060903](https://www.linkedin.com/in/pavan-kushwaha-1b2144334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📨 Email: your.email@example.com
+- 🌐 (https://www.linkedin.com/in/pavan-kushwaha-1b2144334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📨 Email: pavankushwaha23072004@gmail.com

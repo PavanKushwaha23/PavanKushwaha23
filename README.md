@@ -38,3 +38,10 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/) https://www.linkedin.com/in/pavan-kushwaha-1b2144334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 
 -[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pavankushwaha23072004@gmail.com) pavankushwaha23072004@gmail.com
+
+![Alt Text](https://media.giphy.com/media/your-animation-link.gif)
+![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![GitHub followers](https://img.shields.io/github/followers/PavanKushwaha23?label=Follow&style=social)
+![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PavanKushwaha23&show_icons=true&theme=react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKushwaha23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+

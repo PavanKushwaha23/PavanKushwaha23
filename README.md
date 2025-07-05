@@ -19,6 +19,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![image](https://github.com/user-attachments/assets/601c48f9-eb38-40d0-b35e-982dfcd57551)
+![image](https://github.com/user-attachments/assets/2b071ee0-1559-4690-8c75-80a21b6c1248)
 
 
 - ⚙️ Backend: Node.js, Express.js
@@ -26,12 +28,17 @@
 - 📚 Others: Git, GitHub, REST APIs, JSON, JS Libraries (GSAP)
 
 ### 🧰 Projects
-🔗 [Portfolio Website](#)  
-🔗 [Resume Builder](#)  
-🔗 [Landing Page for Startup](#)  
+🔗 [Portfolio Website](https://pavankushwaha23.kesug.com)  
+🔗 [Resume Builder](https://pavankushwaha23.github.io/Resume_Builder/)  
+🔗 [Landing Page for Startup](https://lovely-moonbeam-4270fc.netlify.app/)  
 🔗 [To-Do App](#)  
+🔗 [College Club Website](#)
+🔗 [College Club Website](#)
+🔗 [College Club Website](#)
+🔗 [College Club Website](#)
+🔗 [College Club Website](#)
 🔗 [College Club Website](#)
 
 ### 📫 Let's Connect
-- 🌐 (https://www.linkedin.com/in/pavan-kushwaha-1b2144334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📨 Email: pavankushwaha23072004@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)
+-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pavankushwaha23072004@gmail.com)

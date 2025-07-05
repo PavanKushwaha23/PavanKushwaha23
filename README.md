@@ -5,9 +5,7 @@
 📚 Currently enhancing my skills through hands-on projects  
 
 ### 🚀 Skills & Technologies
-- 💡 Frontend: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
-- ![image](https://github.com/user-attachments/assets/39326bb4-a1ae-4b3e-950d-6157225148b8)
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -16,29 +14,26 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![image](https://github.com/user-attachments/assets/601c48f9-eb38-40d0-b35e-982dfcd57551)
-![image](https://github.com/user-attachments/assets/2b071ee0-1559-4690-8c75-80a21b6c1248)
 
-
-- ⚙️ Backend: Node.js, Express.js
-- 🗃️ Database: MongoDB MYSQL
-- 📚 Others: Git, GitHub, REST APIs, JSON, JS Libraries (GSAP)
 
 ### 🧰 Projects
-🔗 [Portfolio Website](https://pavankushwaha23.kesug.com)  
-🔗 [Resume Builder](https://pavankushwaha23.github.io/Resume_Builder/)  
-🔗 [Landing Page for Startup](https://lovely-moonbeam-4270fc.netlify.app/)  
-🔗 [To-Do App](#)  
-🔗 [College Club Website](#)
-🔗 [College Club Website](#)
-🔗 [College Club Website](#)
-🔗 [College Club Website](#)
-🔗 [College Club Website](#)
-🔗 [College Club Website](#)
+🔗 [Portfolio Website](https://pavankushwaha23.kesug.com)    
+🔗 [Landing Page for Startup](https://lovely-moonbeam-4270fc.netlify.app/)
+🔗 [Resume Builder](https://pavankushwaha23.github.io/Resume_Builder/) 
+🔗 [E-Commerce Price Listing](https://prismatic-brioche-545d65.netlify.app/)
+🔗 [Fruit Recognition System](https://p49anu18.great-site.net/?i=1)
+🔗 [College Club Website](https://wonderful-granita-0c6886.netlify.app/)
+🔗 [Student Management Dashboard ](https://charming-pony-cea3ce.netlify.app/)
+🔗 [Annimal Recognition System](https://boisterous-liger-56cbde.netlify.app/)
+🔗 [Cricket Score Predictor](https://pavankushwaha23.github.io/portfolio2/)
+🔗 [Chatbot](https://pasa23.kesug.com/)
+🔗 [Spiritual Photography Portfolio Website](https://rococo-naiad-e44513.netlify.app/)
 
 ### 📫 Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)
--[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pavankushwaha23072004@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/) https://www.linkedin.com/in/pavan-kushwaha-1b2144334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pavankushwaha23072004@gmail.com) pavankushwaha23072004@gmail.com
